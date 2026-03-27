@@ -1,0 +1,13 @@
+id_produto,produto,categoria,valor_unitario_referencia
+1001,Notebook,Informática,3469.58
+1002,Mouse,Acessório,80.32
+1003,Teclado,Acessório,149.43
+1004,Monitor,Informática,1198.08
+1005,Cadeira Gamer,Móveis,951.11
+1006,Webcam,Acessório,220.28
+1007,Headset,Acessório,310.62
+1008,Impressora,Escritório,890.74
+1009,Ssd 1Tb,Informática,538.42
+1010,Hub Usb,Acessório,95.38
+1011,Mesa Escritório,Móveis,784.98
+1012,Roteador,Redes,430.63

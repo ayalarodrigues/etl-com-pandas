@@ -1,0 +1,1473 @@
+id_cliente,nome_cliente,estado,cidade
+10000,Carla Oliveira,CE,Sobral
+10001,Diego Pereira,MG,Mossoró
+10002,Diego Souza,RN,Natal
+10003,Karen Lima,CE,Sobral
+10004,Nicolas Souza,BA,Feira De Santana
+10005,Felipe Souza,MG,Uberlândia
+10006,Diego Oliveira,SP,Santos
+10007,Carla Lima,PR,Londrina
+10008,Carla Lima,PR,Maringá
+10009,Bruno Silva,CE,Campinas
+10010,Marina Souza,MG,Belo Horizonte
+10011,Diego Pereira,CE,Juazeiro Do Norte
+10012,Gabriela Lima,CE,Recife
+10013,Karen Lima,BA,Campinas
+10014,Bruno Oliveira,BA,Caruaru
+10015,Zeca Pereira,BA,Feira De Santana
+10016,Ana Costa,MG,Rio De Janeiro
+10017,Eduarda Costa,MG,Belo Horizonte
+10018,Gabriela Costa,MG,Contagem
+10019,Carla Pereira,BA,Contagem
+10020,Diego Oliveira,BA,Campinas
+10021,João Lima,CE,Fortaleza
+10022,Karen Lima,BA,Contagem
+10023,Ana Lima,RN,Sobral
+10024,Eduarda Oliveira,CE,Belo Horizonte
+10025,Eduarda Costa,BA,Feira De Santana
+10026,Eduarda Lima,PR,Belo Horizonte
+10027,Henrique Silva,PE,Caruaru
+10028,Marina Lima,BA,Feira De Santana
+10029,João Oliveira,MG,Contagem
+10030,João Silva,PE,Caruaru
+10031,Bruno Pereira,MG,Belo Horizonte
+10033,Úrsula Pereira,MG,Belo Horizonte
+10034,Bruno Lima,BA,Londrina
+10035,Lucas Silva,PE,Olinda
+10036,Ana Costa,SP,Campinas
+10037,Ana Costa,BA,Feira De Santana
+10038,Diego Pereira,CE,Fortaleza
+10039,Felipe Lima,BA,Mossoró
+10040,Sabrina Oliveira,SP,Campinas
+10041,Isabela Silva,CE,Contagem
+10042,Felipe Silva,RJ,Petrópolis
+10043,Diego Costa,CE,Juazeiro Do Norte
+10044,Karen Pereira,CE,Juazeiro Do Norte
+10045,Felipe Costa,CE,Petrópolis
+10046,Ana Souza,MG,Contagem
+10047,Isabela Pereira,BA,Ilhéus
+10048,Diego Oliveira,SP,Campinas
+10049,Ana Lima,CE,Caruaru
+10050,Ana Costa,RN,Natal
+10051,Gabriela Silva,BA,Belo Horizonte
+10052,Diego Pereira,CE,Fortaleza
+10053,Yasmin Lima,MG,Belo Horizonte
+10054,Eduarda Oliveira,BA,Contagem
+10055,Úrsula Pereira,RJ,Rio De Janeiro
+10056,Carla Lima,BA,Caruaru
+10057,Bruno Silva,MG,Belo Horizonte
+10058,Carla Silva,CE,Juazeiro Do Norte
+10059,Eduarda Souza,MG,Olinda
+10060,Carla Pereira,RJ,Niterói
+10061,Carla Pereira,CE,Juazeiro Do Norte
+10062,João Oliveira,CE,Fortaleza
+10063,Diego Pereira,BA,Belo Horizonte
+10064,Henrique Lima,SP,Santos
+10065,Não informado,MG,Contagem
+10066,Henrique Costa,BA,Feira De Santana
+10067,Gabriela Lima,CE,Fortaleza
+10068,Gabriela Souza,PE,Caruaru
+10069,Marina Souza,MG,Contagem
+10070,Isabela Souza,CE,Fortaleza
+10071,Não informado,CE,Campinas
+10072,Karen Costa,SP,Campinas
+10073,Bruno Pereira,RN,Natal
+10074,Bruno Souza,RJ,Niterói
+10075,Não informado,CE,Sobral
+10076,Diego Silva,BA,Caruaru
+10077,Nicolas Lima,CE,Juazeiro Do Norte
+10078,Gabriela Oliveira,CE,Contagem
+10079,Diego Silva,RJ,Petrópolis
+10080,Bruno Pereira,CE,Fortaleza
+10081,Lucas Lima,PR,Londrina
+10082,Ana Silva,CE,Santos
+10083,Ana Lima,PE,Campinas
+10084,Eduarda Oliveira,BA,Campinas
+10085,Bruno Costa,BA,Belo Horizonte
+10086,Bruno Pereira,CE,Sobral
+10087,Gabriela Costa,MG,Contagem
+10088,Eduarda Costa,RJ,Campinas
+10089,Henrique Oliveira,RN,Mossoró
+10090,Não informado,PE,Caruaru
+10091,Henrique Souza,RN,Mossoró
+10092,Ana Oliveira,MG,Belo Horizonte
+10093,Bruno Costa,SP,Santos
+10094,Felipe Lima,RN,Parnamirim
+10095,Carla Pereira,PR,Caruaru
+10096,Eduarda Souza,BA,Contagem
+10097,Henrique Oliveira,BA,Campinas
+10098,Bruno Oliveira,BA,Campinas
+10099,Carla Costa,MG,Contagem
+10100,Henrique Costa,PR,Curitiba
+10101,Carla Oliveira,PR,Curitiba
+10102,Lucas Lima,MG,Contagem
+10103,Não informado,BA,Petrópolis
+10104,Diego Oliveira,SP,Santos
+10105,Ana Lima,SP,Contagem
+10106,Marina Pereira,PR,Belo Horizonte
+10107,Diego Costa,PR,Belo Horizonte
+10108,Yasmin Oliveira,CE,Sobral
+10109,Gabriela Silva,BA,Feira De Santana
+10110,Felipe Lima,BA,Caruaru
+10111,Ana Costa,BA,Parnamirim
+10112,Ana Silva,MG,Caruaru
+10113,Marina Oliveira,RN,Natal
+10114,Diego Pereira,MG,Belo Horizonte
+10115,Marina Souza,BA,Feira De Santana
+10116,João Lima,SP,Campinas
+10117,Eduarda Costa,PR,Londrina
+10118,Isabela Lima,PR,Curitiba
+10119,Bruno Oliveira,BA,Ilhéus
+10120,Bruno Souza,CE,Feira De Santana
+10121,Eduarda Souza,RJ,Petrópolis
+10122,João Lima,BA,Contagem
+10123,Isabela Pereira,CE,Curitiba
+10124,Henrique Oliveira,CE,Contagem
+10125,Gabriela Lima,SP,Campinas
+10126,Bruno Souza,MG,Uberlândia
+10128,Eduarda Souza,RN,Maringá
+10129,Eduarda Oliveira,PR,Caruaru
+10130,Diego Souza,SP,São Paulo
+10131,Henrique Lima,BA,Ilhéus
+10132,Não informado,RN,Mossoró
+10133,Ana Pereira,RJ,Niterói
+10134,Eduarda Oliveira,PR,Maringá
+10135,Ana Lima,BA,Ilhéus
+10136,Nicolas Silva,MG,Belo Horizonte
+10137,Eduarda Costa,MG,Belo Horizonte
+10138,Ana Pereira,PR,Maringá
+10139,Paulo Pereira,BA,Belo Horizonte
+10141,Isabela Silva,PE,Caruaru
+10142,Não informado,CE,Fortaleza
+10143,Não informado,BA,Ilhéus
+10144,Vinícius Souza,SP,São Paulo
+10145,Nicolas Costa,MG,Contagem
+10146,Eduarda Souza,CE,Sobral
+10147,Bruno Pereira,RJ,Campinas
+10148,Carla Lima,PR,Curitiba
+10149,Ana Costa,MG,Belo Horizonte
+10150,Lucas Lima,CE,Contagem
+10151,Gabriela Costa,PR,Curitiba
+10152,Ana Oliveira,RN,Mossoró
+10153,Carla Oliveira,MG,Belo Horizonte
+10154,Felipe Souza,CE,Curitiba
+10155,Henrique Silva,RJ,Rio De Janeiro
+10156,Ana Pereira,RJ,Niterói
+10157,Ana Pereira,RN,Mossoró
+10158,Nicolas Oliveira,BA,Ilhéus
+10159,Gabriela Silva,PR,Londrina
+10160,Diego Pereira,RN,Mossoró
+10161,Carla Pereira,PE,Caruaru
+10162,Isabela Lima,PR,Londrina
+10163,Henrique Silva,CE,Fortaleza
+10164,Diego Souza,CE,Caruaru
+10165,Ana Lima,RN,Fortaleza
+10166,Ana Souza,MG,Contagem
+10167,Eduarda Lima,RN,Campinas
+10168,Eduarda Pereira,RN,Mossoró
+10169,João Pereira,PE,Olinda
+10170,Eduarda Pereira,PE,Londrina
+10171,Olívia Oliveira,PE,Caruaru
+10172,Bruno Silva,CE,Contagem
+10173,Felipe Costa,CE,Belo Horizonte
+10174,Ana Silva,CE,Juazeiro Do Norte
+10175,Felipe Pereira,SP,Santos
+10176,Ana Costa,RJ,Juazeiro Do Norte
+10177,Henrique Pereira,BA,Feira De Santana
+10178,Bruno Oliveira,RN,Feira De Santana
+10179,Paulo Oliveira,CE,Contagem
+10180,Diego Pereira,RN,Parnamirim
+10181,Gabriela Souza,PE,Niterói
+10182,Ana Oliveira,MG,Contagem
+10183,Quésia Silva,PR,Curitiba
+10184,Diego Oliveira,PE,Olinda
+10185,Felipe Lima,PE,Olinda
+10186,Eduarda Souza,PE,Campinas
+10187,Ana Oliveira,BA,Curitiba
+10188,João Lima,RN,Mossoró
+10189,Henrique Lima,BA,Ilhéus
+10190,Henrique Silva,BA,Curitiba
+10191,Karen Silva,SP,São Paulo
+10192,Paulo Souza,BA,Caruaru
+10193,Isabela Costa,RJ,Olinda
+10194,Eduarda Pereira,RJ,Petrópolis
+10195,Eduarda Souza,SP,Campinas
+10196,Felipe Costa,PR,Campinas
+10197,Ana Oliveira,CE,Natal
+10198,Marina Silva,RJ,Petrópolis
+10199,Bruno Souza,PE,Belo Horizonte
+10200,Diego Costa,MG,Belo Horizonte
+10201,Felipe Pereira,CE,Contagem
+10202,Ana Souza,PR,Caruaru
+10203,João Costa,RN,Contagem
+10204,Eduarda Pereira,RN,Feira De Santana
+10205,Não informado,BA,Juazeiro Do Norte
+10206,Carla Costa,CE,Juazeiro Do Norte
+10207,Gabriela Costa,RN,Ilhéus
+10208,Karen Oliveira,RJ,Niterói
+10209,Ana Pereira,MG,Belo Horizonte
+10210,Diego Oliveira,SP,Campinas
+10211,Diego Pereira,CE,Campinas
+10212,Diego Lima,PE,Olinda
+10213,Eduarda Pereira,BA,Mossoró
+10214,Gabriela Oliveira,CE,Londrina
+10215,Gabriela Oliveira,PE,Caruaru
+10216,Carla Lima,BA,Fortaleza
+10217,Ana Silva,SP,Belo Horizonte
+10218,Ana Souza,BA,Caruaru
+10219,Gabriela Costa,SP,Santos
+10220,Ana Lima,BA,Ilhéus
+10221,Henrique Pereira,RN,Campinas
+10222,Não informado,BA,Petrópolis
+10223,Bruno Oliveira,CE,Juazeiro Do Norte
+10224,Carla Lima,MG,Belo Horizonte
+10225,Gabriela Pereira,MG,Contagem
+10226,Eduarda Costa,MG,Contagem
+10227,Eduarda Lima,MG,Campinas
+10228,Não informado,PR,Contagem
+10229,Carla Lima,CE,Natal
+10230,Ana Costa,BA,Salvador
+10231,Paulo Silva,MG,Niterói
+10232,João Oliveira,CE,Campinas
+10233,Carla Pereira,RJ,Rio De Janeiro
+10234,Rafael Silva,PE,Caruaru
+10235,Diego Silva,SP,Campinas
+10236,Paulo Pereira,BA,Salvador
+10237,Marina Lima,MG,Belo Horizonte
+10238,Carla Pereira,CE,Mossoró
+10239,Bruno Lima,PR,Caruaru
+10240,Rafael Silva,CE,Belo Horizonte
+10241,João Oliveira,PE,Olinda
+10242,Rafael Lima,BA,Fortaleza
+10243,Lucas Silva,RJ,Niterói
+10244,Bruno Lima,CE,Fortaleza
+10245,Bruno Pereira,CE,Juazeiro Do Norte
+10246,João Lima,BA,Contagem
+10247,Carla Lima,BA,Contagem
+10248,Gabriela Souza,CE,Belo Horizonte
+10249,Bruno Costa,BA,Petrópolis
+10250,João Silva,PE,Caruaru
+10251,Bruno Pereira,BA,Juazeiro Do Norte
+10252,Eduarda Costa,RN,Mossoró
+10253,Karen Costa,RJ,Parnamirim
+10254,Felipe Lima,CE,Contagem
+10255,Carla Souza,BA,Ilhéus
+10256,Diego Oliveira,MG,Curitiba
+10257,Lucas Oliveira,BA,Belo Horizonte
+10258,Henrique Costa,PE,Natal
+10259,Carla Silva,BA,Caruaru
+10260,Felipe Pereira,MG,Belo Horizonte
+10262,Karen Pereira,MG,Belo Horizonte
+10263,Bruno Oliveira,BA,Campinas
+10264,Bruno Costa,BA,Curitiba
+10265,Não informado,BA,Salvador
+10266,Ana Lima,PR,Londrina
+10267,Ana Lima,SP,São Paulo
+10268,Ana Pereira,PR,Curitiba
+10269,Carla Lima,RJ,Campinas
+10270,Ana Lima,CE,Sobral
+10271,Ana Souza,CE,Feira De Santana
+10272,Vinícius Costa,CE,Campinas
+10273,Ana Oliveira,PR,Curitiba
+10274,Gabriela Lima,CE,Fortaleza
+10275,Gabriela Oliveira,BA,Curitiba
+10276,Ana Silva,MG,Belo Horizonte
+10277,Isabela Costa,BA,Curitiba
+10278,Bruno Lima,MG,Contagem
+10279,Bruno Lima,CE,Campinas
+10280,Não informado,CE,Juazeiro Do Norte
+10281,Ana Souza,RJ,Mossoró
+10282,Carla Oliveira,MG,Contagem
+10283,Úrsula Pereira,RN,Parnamirim
+10284,Ana Costa,PE,Campinas
+10285,Ana Souza,SP,Santos
+10286,Diego Silva,CE,Fortaleza
+10287,Olívia Souza,BA,Petrópolis
+10288,Henrique Costa,CE,Campinas
+10289,Henrique Pereira,MG,Contagem
+10290,Ana Silva,CE,Maringá
+10291,Ana Oliveira,MG,Belo Horizonte
+10292,Eduarda Pereira,MG,Belo Horizonte
+10293,Gabriela Pereira,MG,Parnamirim
+10294,Felipe Oliveira,PE,Campinas
+10295,Karen Oliveira,PR,Curitiba
+10296,Henrique Oliveira,RJ,Niterói
+10297,Karen Oliveira,CE,Natal
+10298,Bruno Costa,MG,Londrina
+10299,Quésia Costa,BA,Feira De Santana
+10300,Ana Oliveira,MG,Uberlândia
+10301,João Costa,BA,Campinas
+10302,Henrique Costa,RN,Caruaru
+10303,Ana Oliveira,PR,Curitiba
+10304,Henrique Oliveira,MG,Belo Horizonte
+10305,Rafael Costa,MG,Belo Horizonte
+10306,Ana Costa,BA,Ilhéus
+10307,Ana Lima,PR,Curitiba
+10308,Karen Pereira,RJ,Curitiba
+10309,Isabela Souza,RN,Ilhéus
+10310,Não informado,CE,Belo Horizonte
+10311,Ana Silva,CE,Campinas
+10312,Carla Oliveira,PE,Olinda
+10313,Henrique Souza,CE,Mossoró
+10314,Gabriela Silva,CE,Campinas
+10315,Não informado,RJ,Niterói
+10316,Eduarda Costa,PR,Curitiba
+10317,Carla Silva,BA,Ilhéus
+10319,Diego Lima,MG,Belo Horizonte
+10320,Felipe Lima,RJ,Niterói
+10321,Bruno Lima,MG,Belo Horizonte
+10322,Eduarda Lima,CE,Fortaleza
+10323,Bruno Souza,CE,Belo Horizonte
+10324,Henrique Lima,CE,Campinas
+10325,Diego Souza,RJ,Parnamirim
+10326,Henrique Pereira,BA,Ilhéus
+10327,Isabela Pereira,RN,Mossoró
+10328,Felipe Costa,BA,Feira De Santana
+10329,Eduarda Pereira,CE,Campinas
+10330,Carla Costa,BA,Parnamirim
+10331,Diego Souza,BA,Campinas
+10332,Isabela Costa,BA,Feira De Santana
+10333,Ana Lima,RJ,Campinas
+10335,Henrique Souza,BA,Londrina
+10336,Bruno Oliveira,BA,Salvador
+10337,Isabela Lima,RN,Fortaleza
+10338,Bruno Souza,PR,Curitiba
+10339,Diego Silva,SP,Campinas
+10340,Eduarda Pereira,CE,Maringá
+10341,Ana Lima,MG,Belo Horizonte
+10343,Paulo Oliveira,RN,Contagem
+10344,Bruno Silva,RJ,Niterói
+10345,Lucas Oliveira,BA,Feira De Santana
+10346,Carla Oliveira,MG,Belo Horizonte
+10347,Bruno Oliveira,BA,Curitiba
+10348,Karen Oliveira,RJ,Petrópolis
+10349,Bruno Oliveira,CE,Juazeiro Do Norte
+10350,Eduarda Souza,BA,Feira De Santana
+10351,Zeca Oliveira,CE,Sobral
+10352,Bruno Oliveira,BA,Ilhéus
+10353,Gabriela Silva,CE,Caruaru
+10354,Ana Oliveira,PE,Caruaru
+10355,Felipe Costa,CE,Fortaleza
+10356,Ana Oliveira,BA,Salvador
+10357,Bruno Lima,RN,Parnamirim
+10358,Ana Costa,SP,São Paulo
+10359,Bruno Pereira,RN,Natal
+10360,Bruno Oliveira,MG,Belo Horizonte
+10361,Carla Silva,PR,Curitiba
+10362,Gabriela Pereira,RN,Parnamirim
+10363,Ana Souza,PR,Santos
+10364,Não informado,BA,Caruaru
+10365,Isabela Lima,MG,Contagem
+10366,Paulo Lima,MG,Belo Horizonte
+10367,Karen Pereira,CE,Fortaleza
+10368,Felipe Souza,PE,Belo Horizonte
+10369,Carla Oliveira,MG,Belo Horizonte
+10370,Diego Oliveira,SP,Santos
+10371,Felipe Silva,BA,Caruaru
+10372,Carla Souza,MG,Uberlândia
+10373,Ana Silva,CE,Santos
+10374,Diego Silva,BA,Feira De Santana
+10375,Úrsula Oliveira,MG,Contagem
+10376,Karen Pereira,MG,Contagem
+10377,Ana Souza,BA,Juazeiro Do Norte
+10378,Felipe Lima,SP,São Paulo
+10379,Bruno Lima,BA,Feira De Santana
+10380,Henrique Oliveira,CE,Fortaleza
+10381,Bruno Costa,PE,Belo Horizonte
+10382,Isabela Oliveira,BA,Fortaleza
+10383,Carla Souza,BA,Caruaru
+10384,Carla Oliveira,MG,Belo Horizonte
+10385,Carla Oliveira,RN,Belo Horizonte
+10386,Lucas Lima,PR,Curitiba
+10387,Carla Silva,BA,Feira De Santana
+10388,Ana Silva,SP,Campinas
+10389,Gabriela Pereira,RJ,Parnamirim
+10390,Bruno Pereira,CE,Campinas
+10391,Bruno Lima,SP,São Paulo
+10392,Eduarda Oliveira,PR,Maringá
+10393,Eduarda Lima,CE,Contagem
+10394,Eduarda Silva,CE,Niterói
+10395,Felipe Silva,RN,Feira De Santana
+10396,Gabriela Souza,PE,Caruaru
+10397,Ana Pereira,RJ,Niterói
+10398,Henrique Costa,CE,Juazeiro Do Norte
+10399,Não informado,CE,Juazeiro Do Norte
+10400,Felipe Costa,PR,Campinas
+10401,Bruno Costa,CE,Sobral
+10402,Eduarda Lima,PR,Curitiba
+10403,Diego Lima,MG,Belo Horizonte
+10404,João Costa,PE,Ilhéus
+10405,Gabriela Silva,BA,Belo Horizonte
+10406,Bruno Silva,PE,Natal
+10407,Ana Costa,PR,Juazeiro Do Norte
+10408,Carla Silva,MG,Contagem
+10409,Paulo Silva,MG,Natal
+10410,Isabela Costa,BA,Parnamirim
+10411,Carla Silva,SP,Campinas
+10412,Ana Silva,CE,Fortaleza
+10413,Bruno Silva,PE,Niterói
+10414,Bruno Souza,BA,Juazeiro Do Norte
+10415,Felipe Silva,PE,Recife
+10416,Diego Lima,PE,Mossoró
+10417,Felipe Pereira,PR,Maringá
+10418,Eduarda Lima,RN,Mossoró
+10420,Isabela Oliveira,CE,Fortaleza
+10421,Henrique Silva,RN,Mossoró
+10422,Bruno Silva,RN,Parnamirim
+10423,Lucas Pereira,RN,Natal
+10424,Felipe Silva,PE,Parnamirim
+10425,Ana Costa,MG,Belo Horizonte
+10426,Bruno Costa,PR,Belo Horizonte
+10427,Eduarda Oliveira,BA,Curitiba
+10428,Lucas Pereira,BA,Belo Horizonte
+10429,Bruno Pereira,MG,Belo Horizonte
+10430,Henrique Souza,MG,Contagem
+10431,Ana Costa,MG,Contagem
+10432,Ana Lima,CE,Caruaru
+10433,Ana Souza,BA,Feira De Santana
+10434,João Silva,BA,Belo Horizonte
+10435,Diego Souza,BA,Feira De Santana
+10436,Tiago Costa,PE,Caruaru
+10437,Não informado,PE,Curitiba
+10438,Carla Oliveira,RN,Parnamirim
+10439,Não informado,PR,Maringá
+10440,Tiago Souza,SP,São Paulo
+10441,Lucas Costa,BA,Campinas
+10442,Diego Costa,BA,Ilhéus
+10443,Gabriela Souza,CE,Campinas
+10444,Diego Costa,CE,Fortaleza
+10445,Karen Pereira,MG,Contagem
+10446,Diego Oliveira,RJ,Santos
+10447,Bruno Souza,BA,Belo Horizonte
+10448,Diego Oliveira,RJ,Niterói
+10449,Felipe Souza,BA,Ilhéus
+10450,Lucas Lima,RJ,Rio De Janeiro
+10451,Ana Silva,PE,Caruaru
+10452,Carla Costa,CE,Fortaleza
+10453,João Pereira,RJ,Petrópolis
+10454,João Costa,PR,Londrina
+10455,Bruno Lima,MG,Belo Horizonte
+10456,Tiago Costa,BA,Ilhéus
+10457,Eduarda Lima,MG,Belo Horizonte
+10458,Gabriela Souza,MG,Belo Horizonte
+10459,Bruno Pereira,RN,Ilhéus
+10460,Tiago Pereira,SP,Santos
+10461,Bruno Souza,RJ,Contagem
+10462,Bruno Lima,CE,Curitiba
+10463,Isabela Costa,BA,Ilhéus
+10464,Diego Costa,MG,Belo Horizonte
+10465,Não informado,BA,Salvador
+10466,Carla Silva,RJ,Curitiba
+10467,Eduarda Lima,MG,Belo Horizonte
+10468,Henrique Oliveira,PR,Caruaru
+10469,Bruno Oliveira,PR,Maringá
+10470,Eduarda Pereira,BA,Parnamirim
+10471,Diego Oliveira,CE,Fortaleza
+10472,Sabrina Oliveira,MG,Contagem
+10473,Carla Souza,CE,Contagem
+10474,Eduarda Costa,PE,Curitiba
+10475,Não informado,BA,Belo Horizonte
+10476,Bruno Costa,CE,Feira De Santana
+10477,Carla Costa,MG,Belo Horizonte
+10478,Felipe Pereira,BA,Maringá
+10479,Ana Oliveira,PR,Campinas
+10480,Isabela Pereira,PE,Belo Horizonte
+10481,Quésia Silva,SP,Campinas
+10482,Eduarda Costa,CE,Belo Horizonte
+10483,Gabriela Costa,BA,Caruaru
+10484,Ana Oliveira,CE,Fortaleza
+10485,Gabriela Oliveira,RJ,Rio De Janeiro
+10486,Ana Oliveira,BA,Contagem
+10487,Ana Costa,RN,Mossoró
+10488,Eduarda Lima,PE,Campinas
+10489,Bruno Costa,BA,Belo Horizonte
+10490,Bruno Silva,RJ,Mossoró
+10491,Felipe Silva,BA,Campinas
+10492,Felipe Silva,CE,Belo Horizonte
+10493,Bruno Lima,MG,Londrina
+10494,Não informado,MG,Belo Horizonte
+10495,Gabriela Pereira,PE,Caruaru
+10496,Marina Lima,CE,Ilhéus
+10497,Ana Oliveira,MG,Contagem
+10498,Lucas Pereira,RJ,Rio De Janeiro
+10499,Karen Souza,BA,Caruaru
+10500,Ana Pereira,SP,Santos
+10501,Eduarda Pereira,MG,Belo Horizonte
+10502,Karen Lima,BA,Salvador
+10503,Quésia Costa,RN,Natal
+10504,Carla Souza,SP,Campinas
+10505,Eduarda Lima,PR,Londrina
+10506,Gabriela Oliveira,RN,Mossoró
+10507,Ana Lima,PE,Maringá
+10508,Karen Souza,PR,Belo Horizonte
+10509,Ana Silva,CE,Sobral
+10510,Diego Oliveira,PE,Juazeiro Do Norte
+10511,Diego Oliveira,BA,Belo Horizonte
+10512,Bruno Oliveira,PE,Caruaru
+10513,Felipe Silva,CE,Fortaleza
+10514,Eduarda Oliveira,RJ,Rio De Janeiro
+10515,Karen Pereira,BA,Feira De Santana
+10517,Bruno Costa,MG,Belo Horizonte
+10518,Felipe Souza,MG,Belo Horizonte
+10519,Nicolas Lima,CE,Fortaleza
+10520,Carla Oliveira,PR,Londrina
+10521,Diego Costa,MG,Belo Horizonte
+10522,Gabriela Oliveira,CE,Curitiba
+10523,Bruno Costa,MG,Belo Horizonte
+10524,Henrique Costa,BA,Fortaleza
+10525,Gabriela Silva,RN,Parnamirim
+10526,Diego Lima,CE,Juazeiro Do Norte
+10527,Ana Silva,MG,Belo Horizonte
+10528,Bruno Lima,MG,Uberlândia
+10529,Carla Costa,RJ,Niterói
+10530,Diego Lima,BA,Contagem
+10531,Carla Souza,PR,Curitiba
+10532,Eduarda Oliveira,PR,Londrina
+10533,João Souza,BA,Ilhéus
+10534,Felipe Silva,RJ,Contagem
+10535,Henrique Silva,BA,Feira De Santana
+10536,Não informado,CE,Juazeiro Do Norte
+10537,Eduarda Costa,RJ,Belo Horizonte
+10538,Ana Lima,CE,Caruaru
+10539,Carla Silva,BA,Belo Horizonte
+10540,Não informado,MG,Belo Horizonte
+10541,Carla Silva,BA,Contagem
+10542,Isabela Pereira,CE,Juazeiro Do Norte
+10543,Bruno Silva,MG,Campinas
+10544,Bruno Lima,BA,Maringá
+10545,Carla Pereira,CE,Olinda
+10546,Quésia Silva,BA,Ilhéus
+10547,Eduarda Pereira,SP,Campinas
+10548,Não informado,BA,Ilhéus
+10549,Bruno Silva,BA,Feira De Santana
+10550,Lucas Lima,BA,Feira De Santana
+10551,Bruno Silva,RJ,Campinas
+10552,Diego Silva,PE,Mossoró
+10553,Carla Pereira,PE,Caruaru
+10554,Marina Lima,CE,Fortaleza
+10555,Bruno Costa,RJ,Londrina
+10556,Bruno Oliveira,MG,Mossoró
+10557,Olívia Silva,RJ,Natal
+10558,Ana Oliveira,MG,Contagem
+10559,Diego Oliveira,RJ,Campinas
+10560,Úrsula Souza,RJ,Petrópolis
+10561,Gabriela Costa,PE,Caruaru
+10562,Diego Silva,MG,Contagem
+10563,João Oliveira,CE,Belo Horizonte
+10564,Bruno Souza,PE,Mossoró
+10565,Rafael Silva,BA,Mossoró
+10566,Bruno Silva,CE,Juazeiro Do Norte
+10567,Bruno Silva,BA,Curitiba
+10568,Henrique Souza,PR,Londrina
+10569,Carla Oliveira,CE,Sobral
+10571,João Costa,BA,Ilhéus
+10572,Diego Pereira,PR,Curitiba
+10573,Bruno Costa,BA,Belo Horizonte
+10574,Ana Costa,BA,Fortaleza
+10575,Nicolas Silva,PE,Caruaru
+10576,Ana Souza,CE,Fortaleza
+10577,Henrique Oliveira,PE,Recife
+10578,Bruno Lima,PE,Olinda
+10579,Eduarda Silva,BA,Curitiba
+10580,Isabela Oliveira,PR,Campinas
+10581,Eduarda Silva,CE,Curitiba
+10582,Eduarda Pereira,MG,Mossoró
+10583,Ana Souza,BA,Campinas
+10584,João Silva,RJ,Niterói
+10585,Eduarda Costa,PE,Recife
+10587,Carla Silva,SP,Belo Horizonte
+10588,Yasmin Costa,BA,Feira De Santana
+10589,Karen Oliveira,RN,Mossoró
+10590,Henrique Lima,RJ,Rio De Janeiro
+10591,Vinícius Pereira,BA,Ilhéus
+10592,Carla Souza,RN,Feira De Santana
+10593,Bruno Souza,CE,Fortaleza
+10594,Rafael Pereira,BA,Ilhéus
+10595,Nicolas Costa,PE,Caruaru
+10596,Ana Costa,PR,Caruaru
+10597,Karen Souza,BA,Ilhéus
+10598,Não informado,BA,Caruaru
+10599,Nicolas Souza,CE,Caruaru
+10600,Diego Souza,PR,Londrina
+10601,Carla Silva,CE,Sobral
+10602,Carla Silva,BA,Feira De Santana
+10603,Bruno Pereira,PR,Caruaru
+10604,Ana Costa,SP,Contagem
+10605,Não informado,RJ,Petrópolis
+10606,Eduarda Lima,CE,Fortaleza
+10607,Karen Oliveira,CE,Campinas
+10608,Eduarda Silva,RN,Caruaru
+10609,Bruno Costa,MG,Belo Horizonte
+10610,Nicolas Souza,BA,Juazeiro Do Norte
+10611,Carla Oliveira,PE,Caruaru
+10612,Ana Costa,CE,Juazeiro Do Norte
+10613,Olívia Silva,SP,Campinas
+10614,Diego Souza,MG,Belo Horizonte
+10615,Carla Silva,MG,Contagem
+10616,Bruno Costa,CE,Juazeiro Do Norte
+10617,Eduarda Costa,BA,Feira De Santana
+10618,Olívia Pereira,PE,Curitiba
+10619,Carla Souza,PR,Juazeiro Do Norte
+10620,Ana Costa,CE,Campinas
+10621,Eduarda Lima,CE,Fortaleza
+10622,Bruno Oliveira,PE,Recife
+10623,Não informado,MG,Belo Horizonte
+10624,Não informado,MG,Campinas
+10625,Ana Silva,BA,Ilhéus
+10626,Marina Pereira,BA,Contagem
+10627,Gabriela Lima,PE,Caruaru
+10628,Sabrina Silva,RJ,Petrópolis
+10629,Ana Pereira,PE,Caruaru
+10630,Bruno Souza,CE,Caruaru
+10631,Bruno Lima,PE,Olinda
+10632,Ana Oliveira,SP,Campinas
+10633,Paulo Lima,BA,Ilhéus
+10634,Diego Pereira,BA,Caruaru
+10635,Carla Silva,RN,Mossoró
+10636,Marina Souza,PE,Caruaru
+10637,Quésia Lima,BA,Salvador
+10638,Felipe Pereira,PR,Fortaleza
+10639,Diego Souza,BA,Feira De Santana
+10640,Isabela Silva,CE,Curitiba
+10641,Marina Costa,CE,Maringá
+10642,Rafael Costa,CE,Contagem
+10643,Olívia Costa,PR,Campinas
+10644,Ana Souza,MG,Contagem
+10645,Gabriela Costa,MG,Campinas
+10646,Ana Costa,PR,Londrina
+10647,Diego Oliveira,CE,Contagem
+10648,Diego Costa,MG,Belo Horizonte
+10649,Zeca Pereira,PE,Caruaru
+10650,Sabrina Pereira,BA,Ilhéus
+10651,Eduarda Costa,BA,Ilhéus
+10652,Carla Souza,BA,Feira De Santana
+10653,Gabriela Pereira,RJ,Petrópolis
+10654,Lucas Pereira,BA,Feira De Santana
+10655,Úrsula Costa,CE,Contagem
+10657,Olívia Costa,CE,Belo Horizonte
+10658,Eduarda Oliveira,CE,Maringá
+10659,William Costa,PR,Londrina
+10660,Nicolas Souza,PR,Londrina
+10661,Eduarda Souza,CE,Natal
+10663,Gabriela Souza,CE,Fortaleza
+10664,Marina Silva,SP,Campinas
+10665,Isabela Silva,BA,Ilhéus
+10666,Eduarda Silva,MG,Belo Horizonte
+10667,Carla Lima,PR,Londrina
+10668,Diego Silva,CE,Campinas
+10669,Eduarda Costa,CE,Campinas
+10670,Eduarda Lima,CE,Fortaleza
+10671,Diego Oliveira,MG,Belo Horizonte
+10672,Bruno Costa,CE,Olinda
+10673,Ana Oliveira,PE,Curitiba
+10674,Ana Oliveira,RJ,Rio De Janeiro
+10675,Bruno Costa,CE,Sobral
+10676,Henrique Costa,MG,Belo Horizonte
+10677,Lucas Oliveira,RJ,Petrópolis
+10678,Henrique Pereira,SP,Campinas
+10679,Lucas Pereira,BA,Contagem
+10680,Ana Lima,MG,Contagem
+10681,Isabela Oliveira,BA,Feira De Santana
+10682,Eduarda Pereira,CE,Fortaleza
+10683,Diego Lima,BA,Belo Horizonte
+10684,Nicolas Souza,PR,Londrina
+10685,Felipe Souza,PE,Feira De Santana
+10686,Bruno Pereira,BA,Feira De Santana
+10687,Marina Pereira,MG,Contagem
+10688,Vinícius Costa,PR,Londrina
+10689,Sabrina Silva,CE,Sobral
+10690,Ana Silva,BA,Maringá
+10691,Olívia Costa,SP,Santos
+10692,Ana Pereira,BA,Feira De Santana
+10693,Paulo Silva,PR,Londrina
+10694,Nicolas Lima,RN,Parnamirim
+10695,Bruno Lima,PR,Londrina
+10696,Não informado,PE,Campinas
+10697,Nicolas Lima,RJ,Natal
+10698,Isabela Pereira,PR,Curitiba
+10699,Vinícius Oliveira,SP,São Paulo
+10700,Marina Silva,RJ,Natal
+10701,Ana Lima,CE,Belo Horizonte
+10702,Eduarda Pereira,BA,Maringá
+10703,Lucas Oliveira,MG,Contagem
+10704,Henrique Pereira,RJ,Fortaleza
+10705,João Lima,CE,Maringá
+10706,Ana Lima,BA,Olinda
+10707,Ana Oliveira,BA,Fortaleza
+10708,Eduarda Silva,PE,Olinda
+10709,Nicolas Oliveira,PR,Londrina
+10710,Marina Oliveira,PE,Caruaru
+10711,Bruno Lima,SP,Santos
+10712,Bruno Costa,PR,Londrina
+10713,Ana Lima,RN,Maringá
+10714,Ana Souza,SP,São Paulo
+10715,Rafael Costa,RJ,Rio De Janeiro
+10716,Karen Souza,BA,Ilhéus
+10717,João Oliveira,CE,Belo Horizonte
+10718,Henrique Souza,BA,Caruaru
+10719,Bruno Pereira,CE,Olinda
+10720,Isabela Pereira,RJ,Mossoró
+10721,Gabriela Oliveira,BA,Feira De Santana
+10722,Eduarda Lima,CE,Juazeiro Do Norte
+10723,Bruno Oliveira,CE,Belo Horizonte
+10724,Lucas Pereira,BA,Contagem
+10725,Henrique Pereira,BA,Feira De Santana
+10726,Felipe Pereira,PR,Maringá
+10727,Ana Oliveira,BA,Feira De Santana
+10728,Carla Souza,BA,Contagem
+10729,Bruno Silva,SP,Santos
+10730,Diego Costa,PR,Curitiba
+10731,Não informado,MG,Belo Horizonte
+10732,Bruno Silva,CE,Fortaleza
+10733,Marina Oliveira,SP,São Paulo
+10734,Úrsula Lima,PR,Maringá
+10735,Bruno Costa,BA,Campinas
+10736,Gabriela Pereira,RJ,Curitiba
+10737,Ana Oliveira,BA,Feira De Santana
+10738,Lucas Costa,PE,Campinas
+10739,João Costa,BA,Campinas
+10740,Diego Oliveira,RJ,Campinas
+10741,Carla Lima,BA,Feira De Santana
+10742,Ana Souza,CE,Campinas
+10743,Marina Lima,PE,Londrina
+10744,Carla Silva,PE,Caruaru
+10745,Ana Oliveira,MG,Contagem
+10746,Zeca Costa,BA,Feira De Santana
+10747,Bruno Lima,BA,Curitiba
+10748,Ana Lima,BA,Campinas
+10749,Bruno Silva,RJ,Mossoró
+10750,Bruno Pereira,PR,Maringá
+10751,Karen Oliveira,MG,Curitiba
+10752,Carla Souza,PE,Recife
+10753,Ana Pereira,PE,Caruaru
+10754,Henrique Costa,SP,Campinas
+10755,Gabriela Oliveira,BA,Caruaru
+10756,Lucas Costa,PE,Caruaru
+10757,Felipe Oliveira,BA,Salvador
+10758,Felipe Pereira,CE,Caruaru
+10759,Eduarda Costa,CE,Juazeiro Do Norte
+10760,Carla Silva,BA,Caruaru
+10761,Carla Lima,CE,Contagem
+10762,Karen Souza,BA,Contagem
+10764,Não informado,BA,Ilhéus
+10765,Ana Pereira,CE,Fortaleza
+10766,Ana Lima,PE,Campinas
+10767,Rafael Oliveira,CE,Curitiba
+10768,Karen Oliveira,MG,Contagem
+10769,Henrique Costa,PR,Maringá
+10770,Ana Costa,PE,Caruaru
+10771,Bruno Oliveira,SP,Campinas
+10772,Ana Costa,SP,Campinas
+10773,João Silva,CE,Fortaleza
+10774,Lucas Silva,BA,Feira De Santana
+10775,Diego Pereira,SP,Campinas
+10776,Carla Lima,SP,Campinas
+10777,Lucas Silva,BA,Curitiba
+10778,Eduarda Oliveira,PR,Contagem
+10779,Ana Silva,CE,Juazeiro Do Norte
+10780,Felipe Souza,BA,Juazeiro Do Norte
+10781,Carla Pereira,CE,Sobral
+10782,Karen Oliveira,MG,Contagem
+10783,Úrsula Costa,BA,Campinas
+10784,Isabela Costa,PE,Curitiba
+10785,Nicolas Silva,BA,Feira De Santana
+10786,Carla Silva,PR,Maringá
+10787,Henrique Costa,PR,Campinas
+10788,Diego Oliveira,CE,Fortaleza
+10789,Lucas Costa,RN,Mossoró
+10790,Ana Silva,PR,Curitiba
+10791,Bruno Silva,BA,Caruaru
+10792,Ana Costa,PE,Recife
+10793,Olívia Costa,CE,Caruaru
+10794,Diego Costa,BA,Contagem
+10795,Ana Costa,RJ,Niterói
+10796,Henrique Pereira,BA,Niterói
+10797,Karen Pereira,MG,Belo Horizonte
+10798,Felipe Oliveira,BA,Belo Horizonte
+10799,Rafael Lima,PR,Maringá
+10800,Isabela Costa,BA,Ilhéus
+10801,Bruno Souza,CE,Fortaleza
+10802,Nicolas Pereira,MG,Santos
+10803,Carla Costa,BA,Campinas
+10804,Gabriela Lima,MG,Contagem
+10805,Paulo Lima,BA,Fortaleza
+10806,Quésia Souza,PE,Recife
+10807,Quésia Costa,PR,Londrina
+10808,Ana Souza,PR,Maringá
+10809,Carla Pereira,PR,Londrina
+10810,Felipe Costa,BA,Ilhéus
+10811,João Silva,RN,Campinas
+10812,Eduarda Costa,PE,Campinas
+10813,Carla Silva,BA,Contagem
+10814,Ana Pereira,MG,Caruaru
+10815,Ana Costa,CE,Caruaru
+10816,Bruno Silva,MG,Campinas
+10817,Ana Oliveira,RJ,Rio De Janeiro
+10818,Diego Costa,CE,Campinas
+10819,Bruno Souza,RJ,Campinas
+10820,Henrique Lima,CE,Curitiba
+10821,Diego Lima,CE,Olinda
+10822,Ana Silva,MG,Belo Horizonte
+10823,Ana Souza,MG,Contagem
+10824,Henrique Oliveira,BA,Fortaleza
+10825,Felipe Oliveira,CE,Londrina
+10826,Isabela Lima,BA,Ilhéus
+10827,Nicolas Lima,MG,Uberlândia
+10828,Felipe Silva,PE,Caruaru
+10829,Felipe Lima,MG,Contagem
+10830,Bruno Souza,PE,Londrina
+10831,Bruno Silva,RJ,Niterói
+10832,Eduarda Silva,MG,Campinas
+10833,Vinícius Lima,PE,Caruaru
+10834,Olívia Costa,CE,Natal
+10835,Isabela Lima,CE,Curitiba
+10836,Diego Silva,RJ,Niterói
+10837,Bruno Costa,RJ,Niterói
+10838,Karen Costa,CE,Caruaru
+10840,Eduarda Silva,CE,Maringá
+10841,Ana Costa,RJ,Campinas
+10842,Karen Lima,BA,Ilhéus
+10843,Carla Lima,RN,Mossoró
+10844,Gabriela Lima,BA,Petrópolis
+10845,Isabela Costa,BA,Feira De Santana
+10846,Diego Oliveira,BA,Caruaru
+10847,Carla Lima,RJ,Petrópolis
+10848,Vinícius Oliveira,CE,Fortaleza
+10849,Bruno Pereira,CE,Caruaru
+10850,Ana Silva,PE,Natal
+10851,Eduarda Lima,PR,Londrina
+10852,Sabrina Oliveira,MG,Contagem
+10853,Carla Costa,BA,Campinas
+10854,Quésia Pereira,PE,Recife
+10855,Isabela Souza,BA,Petrópolis
+10856,Ana Souza,CE,Belo Horizonte
+10857,Ana Costa,BA,Campinas
+10858,Karen Oliveira,BA,Contagem
+10859,Ana Costa,PR,Campinas
+10860,Bruno Oliveira,MG,Belo Horizonte
+10861,Ana Lima,PE,Olinda
+10862,Felipe Costa,MG,São Paulo
+10863,Bruno Lima,BA,Ilhéus
+10864,Felipe Souza,RJ,Campinas
+10865,Ana Pereira,CE,Curitiba
+10866,Diego Costa,RJ,Rio De Janeiro
+10867,Quésia Costa,PR,Curitiba
+10868,João Pereira,PE,Olinda
+10869,Diego Souza,CE,Juazeiro Do Norte
+10870,Nicolas Oliveira,MG,Belo Horizonte
+10871,João Silva,PR,Maringá
+10872,Isabela Lima,BA,Ilhéus
+10873,Henrique Lima,MG,Belo Horizonte
+10874,Carla Oliveira,SP,Juazeiro Do Norte
+10875,João Lima,CE,Juazeiro Do Norte
+10876,Bruno Lima,BA,Feira De Santana
+10877,Isabela Souza,CE,Juazeiro Do Norte
+10878,Diego Lima,CE,Curitiba
+10879,Bruno Oliveira,BA,Ilhéus
+10880,Eduarda Costa,CE,Mossoró
+10881,Carla Costa,BA,Caruaru
+10882,Quésia Oliveira,RN,Campinas
+10883,Ana Costa,PE,Recife
+10884,Gabriela Costa,SP,Santos
+10885,Lucas Souza,SP,Londrina
+10886,Zeca Pereira,CE,Fortaleza
+10887,Bruno Oliveira,RJ,Petrópolis
+10888,Felipe Souza,RN,Feira De Santana
+10889,Carla Lima,BA,Campinas
+10890,Ana Costa,PR,Curitiba
+10891,Felipe Oliveira,RJ,Curitiba
+10892,Henrique Oliveira,RN,Natal
+10893,Carla Oliveira,CE,Belo Horizonte
+10894,Ana Silva,MG,Belo Horizonte
+10895,Eduarda Pereira,RJ,Mossoró
+10896,Karen Souza,CE,Juazeiro Do Norte
+10897,Olívia Silva,BA,Contagem
+10898,Bruno Pereira,MG,Natal
+10899,Carla Pereira,CE,Petrópolis
+10900,Ana Costa,RJ,Londrina
+10901,Bruno Souza,CE,Campinas
+10902,Carla Lima,BA,Fortaleza
+10903,Lucas Oliveira,RJ,Juazeiro Do Norte
+10904,Não informado,MG,Uberlândia
+10905,Karen Pereira,PE,Caruaru
+10906,Eduarda Souza,SP,São Paulo
+10907,Karen Pereira,BA,Ilhéus
+10908,Gabriela Pereira,MG,Belo Horizonte
+10909,Bruno Silva,RJ,Niterói
+10910,Eduarda Souza,MG,Belo Horizonte
+10911,Diego Silva,BA,Juazeiro Do Norte
+10912,Carla Lima,PR,Campinas
+10913,Carla Costa,RJ,Niterói
+10914,Marina Lima,BA,Caruaru
+10915,Carla Costa,CE,Curitiba
+10916,Bruno Silva,PR,Caruaru
+10917,Ana Oliveira,PR,Londrina
+10918,Karen Souza,CE,Juazeiro Do Norte
+10919,Felipe Souza,BA,Ilhéus
+10920,Bruno Souza,PR,Curitiba
+10921,Isabela Pereira,BA,Caruaru
+10922,Diego Oliveira,BA,Feira De Santana
+10923,Lucas Pereira,BA,Feira De Santana
+10924,Henrique Oliveira,BA,Ilhéus
+10925,Marina Pereira,RN,Natal
+10926,Eduarda Lima,CE,Campinas
+10927,Ana Oliveira,MG,Uberlândia
+10928,Não informado,PR,Londrina
+10929,Bruno Lima,PE,Olinda
+10930,Carla Silva,PE,Curitiba
+10931,Bruno Silva,RJ,Rio De Janeiro
+10932,Eduarda Costa,MG,Maringá
+10933,Gabriela Souza,PE,Londrina
+10934,Bruno Lima,RJ,Campinas
+10935,Isabela Oliveira,CE,Juazeiro Do Norte
+10936,João Souza,PE,Campinas
+10937,João Souza,RN,Natal
+10938,Diego Souza,MG,Campinas
+10939,Gabriela Silva,BA,Feira De Santana
+10940,Lucas Costa,CE,Fortaleza
+10941,Carla Lima,PR,Londrina
+10942,Lucas Lima,BA,Feira De Santana
+10943,Yasmin Costa,CE,Juazeiro Do Norte
+10944,Ana Costa,CE,Curitiba
+10945,Isabela Costa,CE,Sobral
+10946,Karen Silva,MG,Contagem
+10947,Nicolas Pereira,MG,Belo Horizonte
+10948,Isabela Lima,CE,Campinas
+10949,Carla Costa,RJ,Niterói
+10950,Ana Silva,MG,Maringá
+10951,Marina Souza,MG,Campinas
+10952,Ana Souza,RN,Mossoró
+10953,João Souza,CE,Campinas
+10954,Karen Souza,BA,Campinas
+10955,Henrique Souza,BA,Maringá
+10956,Lucas Lima,PE,Recife
+10957,Ana Pereira,BA,Feira De Santana
+10958,Diego Pereira,CE,Belo Horizonte
+10959,Diego Souza,BA,Campinas
+10960,Diego Pereira,BA,Feira De Santana
+10961,Diego Oliveira,PR,Londrina
+10962,Bruno Pereira,MG,Campinas
+10963,Bruno Lima,PR,Campinas
+10964,Marina Oliveira,PR,Belo Horizonte
+10965,Olívia Silva,SP,São Paulo
+10966,Ana Lima,PR,Campinas
+10967,João Silva,RJ,Curitiba
+10968,Henrique Oliveira,RJ,Petrópolis
+10969,Bruno Souza,MG,Uberlândia
+10970,Bruno Oliveira,MG,Caruaru
+10971,Ana Pereira,RJ,Rio De Janeiro
+10972,Bruno Lima,BA,Campinas
+10973,Paulo Lima,BA,Ilhéus
+10974,Olívia Lima,CE,Curitiba
+10975,Ana Costa,CE,Fortaleza
+10976,Nicolas Souza,BA,Feira De Santana
+10977,Eduarda Lima,BA,Campinas
+10978,Bruno Oliveira,MG,Campinas
+10979,Diego Lima,PE,Olinda
+10980,Karen Oliveira,CE,Sobral
+10981,Isabela Silva,PE,Caruaru
+10982,Ana Costa,RJ,Natal
+10983,Úrsula Costa,BA,Belo Horizonte
+10984,João Costa,BA,Ilhéus
+10985,Karen Costa,RN,Mossoró
+10986,João Pereira,RJ,Rio De Janeiro
+10987,Henrique Costa,RJ,Rio De Janeiro
+10988,Bruno Oliveira,BA,Feira De Santana
+10989,Bruno Silva,MG,Contagem
+10990,Ana Pereira,SP,São Paulo
+10991,Diego Pereira,MG,Belo Horizonte
+10992,Henrique Souza,CE,Recife
+10993,Eduarda Oliveira,RN,Mossoró
+10994,Ana Silva,CE,Niterói
+10995,Felipe Pereira,PR,Curitiba
+10996,Marina Costa,CE,Juazeiro Do Norte
+10997,Felipe Lima,BA,Fortaleza
+10998,Carla Lima,SP,Santos
+10999,Ana Souza,CE,Contagem
+11000,Felipe Costa,CE,Feira De Santana
+11001,Gabriela Pereira,BA,Belo Horizonte
+11002,Olívia Costa,CE,Contagem
+11003,João Silva,CE,Niterói
+11004,Diego Oliveira,SP,Curitiba
+11005,Eduarda Lima,MG,Belo Horizonte
+11006,Paulo Souza,RN,Natal
+11007,Carla Souza,BA,Caruaru
+11008,Henrique Silva,BA,Ilhéus
+11009,Carla Lima,PE,Natal
+11010,Eduarda Pereira,RJ,Contagem
+11011,Marina Pereira,MG,Olinda
+11012,Olívia Oliveira,PR,Maringá
+11013,Gabriela Oliveira,PR,Maringá
+11014,Diego Silva,CE,Fortaleza
+11015,Eduarda Souza,SP,Campinas
+11016,Não informado,PR,Londrina
+11017,Paulo Oliveira,PE,Juazeiro Do Norte
+11018,João Lima,CE,Belo Horizonte
+11019,Diego Pereira,PR,Curitiba
+11020,Carla Pereira,CE,Caruaru
+11021,Bruno Oliveira,BA,Belo Horizonte
+11022,Rafael Pereira,RN,Mossoró
+11023,Diego Oliveira,CE,Sobral
+11024,Não informado,CE,Juazeiro Do Norte
+11025,Nicolas Souza,MG,Belo Horizonte
+11026,Paulo Silva,BA,Feira De Santana
+11027,Vinícius Souza,CE,Juazeiro Do Norte
+11028,Não informado,RN,Natal
+11029,João Costa,PE,Caruaru
+11030,Ana Costa,MG,Uberlândia
+11031,Bruno Lima,PR,Maringá
+11032,Gabriela Silva,PR,Campinas
+11033,Henrique Lima,CE,Londrina
+11034,Diego Silva,CE,Juazeiro Do Norte
+11035,Eduarda Silva,BA,Feira De Santana
+11036,Carla Oliveira,BA,Contagem
+11037,Isabela Souza,RJ,Niterói
+11038,Diego Pereira,BA,Londrina
+11039,Carla Silva,PR,Curitiba
+11040,Henrique Lima,BA,Curitiba
+11042,Marina Souza,RN,Natal
+11043,João Pereira,MG,Belo Horizonte
+11044,Isabela Lima,MG,Belo Horizonte
+11045,Diego Lima,SP,Santos
+11046,Paulo Pereira,PE,Caruaru
+11047,Bruno Costa,BA,Contagem
+11048,Bruno Silva,BA,Ilhéus
+11049,Marina Souza,PR,Fortaleza
+11050,Felipe Oliveira,MG,Curitiba
+11052,Diego Silva,MG,Caruaru
+11053,Diego Silva,BA,Campinas
+11054,Isabela Souza,SP,Campinas
+11055,Karen Silva,RJ,Rio De Janeiro
+11056,Diego Lima,BA,Belo Horizonte
+11057,Gabriela Silva,BA,Fortaleza
+11058,Bruno Pereira,CE,Juazeiro Do Norte
+11059,Gabriela Lima,MG,Contagem
+11060,Eduarda Costa,MG,Maringá
+11061,Lucas Souza,CE,Caruaru
+11063,João Pereira,BA,Feira De Santana
+11064,Não informado,RJ,Petrópolis
+11065,Ana Oliveira,RN,Mossoró
+11066,Carla Pereira,MG,Petrópolis
+11067,Gabriela Pereira,CE,Campinas
+11068,Lucas Costa,BA,Campinas
+11069,Ana Lima,RN,Campinas
+11070,Carla Costa,PE,Curitiba
+11071,Gabriela Oliveira,BA,Feira De Santana
+11072,Carla Oliveira,PR,Londrina
+11073,Felipe Silva,CE,Campinas
+11074,Diego Costa,BA,Caruaru
+11075,Diego Pereira,CE,Belo Horizonte
+11076,Bruno Pereira,CE,Fortaleza
+11077,Felipe Costa,PR,Contagem
+11078,Henrique Costa,MG,Londrina
+11079,Ana Silva,BA,Campinas
+11080,Não informado,PE,Olinda
+11081,Paulo Pereira,PR,Maringá
+11082,Gabriela Oliveira,CE,Juazeiro Do Norte
+11083,Diego Oliveira,MG,Belo Horizonte
+11084,Ana Silva,BA,Contagem
+11085,Ana Souza,PE,Londrina
+11086,João Pereira,RJ,São Paulo
+11087,Ana Oliveira,PR,Curitiba
+11088,Felipe Silva,MG,Belo Horizonte
+11089,Não informado,MG,Contagem
+11090,Bruno Lima,SP,Campinas
+11091,Não informado,CE,Fortaleza
+11092,Henrique Lima,BA,Belo Horizonte
+11093,Bruno Silva,CE,Juazeiro Do Norte
+11094,Carla Costa,BA,Salvador
+11096,Marina Pereira,MG,Belo Horizonte
+11097,Ana Pereira,SP,São Paulo
+11098,Bruno Oliveira,SP,Campinas
+11099,Bruno Costa,PR,Contagem
+11100,Felipe Lima,BA,Juazeiro Do Norte
+11101,Nicolas Oliveira,CE,Juazeiro Do Norte
+11102,Henrique Oliveira,MG,Campinas
+11103,Karen Pereira,PR,Caruaru
+11104,Ana Lima,RJ,Petrópolis
+11105,Ana Souza,MG,Belo Horizonte
+11106,Felipe Souza,MG,Belo Horizonte
+11107,Bruno Oliveira,RJ,Petrópolis
+11108,Gabriela Costa,RN,Belo Horizonte
+11109,João Souza,PR,Londrina
+11110,Bruno Pereira,RN,Curitiba
+11111,Carla Lima,CE,Sobral
+11112,Lucas Costa,CE,Sobral
+11113,Ana Costa,BA,Belo Horizonte
+11114,Bruno Costa,RN,Caruaru
+11115,Felipe Lima,MG,Belo Horizonte
+11116,Bruno Costa,MG,Contagem
+11117,Ana Lima,BA,Feira De Santana
+11118,Ana Costa,PR,Londrina
+11119,Ana Oliveira,PR,Curitiba
+11120,Nicolas Lima,BA,Juazeiro Do Norte
+11121,Diego Pereira,MG,Contagem
+11122,Carla Souza,PE,Belo Horizonte
+11123,Gabriela Oliveira,PE,Natal
+11124,Diego Lima,PE,Caruaru
+11125,Ana Silva,RJ,Niterói
+11126,Gabriela Costa,PR,Maringá
+11127,Henrique Souza,RN,Mossoró
+11128,Isabela Souza,BA,Ilhéus
+11129,Carla Costa,BA,Campinas
+11130,Ana Pereira,RJ,Rio De Janeiro
+11131,Felipe Silva,PE,Olinda
+11132,Ana Costa,BA,Belo Horizonte
+11133,Carla Pereira,RN,Fortaleza
+11134,Marina Pereira,CE,Fortaleza
+11135,Ana Costa,PE,Olinda
+11136,Karen Costa,CE,Caruaru
+11137,Bruno Souza,BA,Belo Horizonte
+11138,Eduarda Lima,PE,Petrópolis
+11139,Não informado,BA,Feira De Santana
+11140,Diego Silva,MG,Belo Horizonte
+11141,Ana Pereira,CE,Campinas
+11142,Felipe Souza,BA,Caruaru
+11143,Nicolas Pereira,PE,Caruaru
+11144,João Oliveira,SP,Campinas
+11145,Bruno Souza,RJ,Mossoró
+11146,Eduarda Costa,RJ,Rio De Janeiro
+11147,Felipe Oliveira,RN,Parnamirim
+11148,Diego Lima,BA,Feira De Santana
+11149,Diego Lima,BA,Feira De Santana
+11150,Ana Oliveira,PR,Londrina
+11151,Marina Silva,BA,Fortaleza
+11152,Henrique Pereira,RN,Natal
+11153,Lucas Costa,BA,Salvador
+11154,Felipe Souza,RN,Caruaru
+11155,Rafael Pereira,RJ,Rio De Janeiro
+11156,Carla Oliveira,RJ,Campinas
+11157,Paulo Souza,PE,Caruaru
+11158,Sabrina Souza,MG,Uberlândia
+11159,Não informado,RN,Natal
+11160,Ana Pereira,PE,Caruaru
+11161,Diego Souza,BA,Rio De Janeiro
+11162,Gabriela Silva,CE,Curitiba
+11163,Diego Souza,PR,Londrina
+11164,Isabela Pereira,CE,Sobral
+11165,Bruno Costa,CE,Caruaru
+11166,Karen Oliveira,CE,Olinda
+11167,Olívia Lima,MG,Contagem
+11168,Diego Pereira,BA,Maringá
+11169,Carla Silva,MG,São Paulo
+11170,Ana Pereira,MG,Contagem
+11171,Ana Lima,RN,Campinas
+11172,Eduarda Oliveira,PE,Caruaru
+11173,Ana Lima,PR,Londrina
+11174,Bruno Oliveira,PR,Maringá
+11175,Não informado,PR,Curitiba
+11176,William Souza,PR,Londrina
+11177,Carla Costa,BA,Salvador
+11178,Nicolas Oliveira,MG,Uberlândia
+11179,Ana Oliveira,BA,Campinas
+11180,Henrique Silva,RJ,Petrópolis
+11181,Eduarda Silva,MG,Maringá
+11182,Carla Lima,BA,Feira De Santana
+11183,Gabriela Souza,MG,São Paulo
+11184,Gabriela Souza,BA,Curitiba
+11185,Olívia Souza,MG,Contagem
+11186,Carla Pereira,CE,Caruaru
+11187,Diego Lima,BA,Fortaleza
+11188,Bruno Pereira,SP,Campinas
+11189,Bruno Silva,BA,Feira De Santana
+11190,Gabriela Lima,SP,Fortaleza
+11191,Ana Pereira,RN,Caruaru
+11192,William Pereira,RJ,Niterói
+11193,Diego Costa,BA,Ilhéus
+11194,Lucas Pereira,RJ,Mossoró
+11195,Eduarda Oliveira,SP,Campinas
+11196,Felipe Pereira,BA,Caruaru
+11197,Diego Pereira,RN,Natal
+11198,Felipe Costa,CE,Contagem
+11199,Bruno Costa,BA,Caruaru
+11200,Isabela Pereira,BA,Londrina
+11201,Carla Oliveira,BA,Feira De Santana
+11203,Ana Oliveira,CE,Juazeiro Do Norte
+11204,Bruno Silva,CE,Belo Horizonte
+11206,Henrique Pereira,BA,Contagem
+11207,Carla Silva,BA,Contagem
+11208,João Pereira,PR,Londrina
+11209,Gabriela Oliveira,MG,Contagem
+11210,Não informado,BA,Caruaru
+11211,Gabriela Pereira,BA,Belo Horizonte
+11212,Henrique Lima,CE,Contagem
+11213,Bruno Souza,PE,Natal
+11214,Henrique Costa,MG,Belo Horizonte
+11215,Não informado,MG,Belo Horizonte
+11216,Ana Silva,MG,Belo Horizonte
+11217,Isabela Souza,BA,Niterói
+11218,Gabriela Lima,CE,Contagem
+11219,Carla Costa,PE,Caruaru
+11220,Bruno Lima,PR,Maringá
+11221,Bruno Costa,RJ,Niterói
+11222,Carla Lima,BA,Salvador
+11223,Henrique Costa,MG,Uberlândia
+11224,Isabela Oliveira,CE,Contagem
+11225,Isabela Souza,BA,Campinas
+11226,Henrique Oliveira,PR,Londrina
+11227,Ana Pereira,MG,Belo Horizonte
+11228,Felipe Silva,MG,Belo Horizonte
+11229,Ana Pereira,BA,Caruaru
+11230,Olívia Pereira,PE,Caruaru
+11231,Diego Pereira,PR,Curitiba
+11232,Carla Oliveira,RN,Parnamirim
+11233,Nicolas Costa,PE,Petrópolis
+11234,Quésia Souza,PR,Curitiba
+11235,Felipe Pereira,PR,Curitiba
+11237,Marina Lima,MG,Belo Horizonte
+11238,Bruno Pereira,MG,Belo Horizonte
+11239,Gabriela Silva,PR,Maringá
+11240,Vinícius Oliveira,RJ,Rio De Janeiro
+11241,Carla Oliveira,MG,Maringá
+11242,João Costa,MG,Belo Horizonte
+11243,Ana Lima,MG,Contagem
+11244,Gabriela Lima,RN,Maringá
+11245,Rafael Oliveira,CE,Fortaleza
+11246,Gabriela Lima,PE,Recife
+11247,Bruno Silva,BA,Belo Horizonte
+11248,Nicolas Souza,MG,Contagem
+11249,Marina Souza,CE,Juazeiro Do Norte
+11250,Lucas Pereira,RJ,Londrina
+11251,Karen Souza,BA,Salvador
+11252,Gabriela Pereira,PR,Curitiba
+11253,Bruno Lima,SP,São Paulo
+11254,Ana Oliveira,BA,Campinas
+11255,Carla Lima,PE,Niterói
+11256,João Souza,RJ,Mossoró
+11257,Lucas Costa,RJ,Curitiba
+11258,Isabela Costa,PE,Caruaru
+11259,Gabriela Costa,PE,Belo Horizonte
+11260,Carla Oliveira,CE,Caruaru
+11261,João Souza,BA,Ilhéus
+11262,Eduarda Silva,MG,Belo Horizonte
+11263,Ana Souza,RN,Belo Horizonte
+11264,Karen Souza,BA,Olinda
+11265,Karen Costa,MG,Olinda
+11266,Bruno Souza,BA,Campinas
+11267,Ana Costa,PR,Curitiba
+11268,João Costa,CE,Belo Horizonte
+11269,Bruno Oliveira,PE,Mossoró
+11270,Carla Silva,CE,Juazeiro Do Norte
+11271,Eduarda Souza,BA,Ilhéus
+11272,Não informado,BA,Mossoró
+11273,Rafael Oliveira,RJ,Niterói
+11274,Bruno Lima,RN,Belo Horizonte
+11275,Eduarda Silva,BA,Juazeiro Do Norte
+11276,Gabriela Costa,MG,Londrina
+11277,Henrique Oliveira,PR,Contagem
+11278,Não informado,RN,Natal
+11279,Diego Costa,BA,Ilhéus
+11280,Não informado,CE,Contagem
+11281,Carla Pereira,BA,Juazeiro Do Norte
+11282,Lucas Lima,BA,Curitiba
+11283,João Souza,PR,Maringá
+11284,Gabriela Lima,MG,Contagem
+11285,Bruno Costa,CE,Campinas
+11286,Karen Lima,RJ,Niterói
+11287,Bruno Lima,RJ,Ilhéus
+11288,Não informado,PR,Londrina
+11289,Carla Oliveira,BA,Contagem
+11290,Bruno Silva,MG,Belo Horizonte
+11291,Carla Pereira,MG,Campinas
+11292,Karen Pereira,BA,Ilhéus
+11293,Não informado,SP,Santos
+11294,Felipe Costa,SP,Curitiba
+11295,Felipe Oliveira,RJ,Contagem
+11296,Felipe Costa,RJ,Belo Horizonte
+11297,Isabela Oliveira,PE,Caruaru
+11298,Karen Costa,PE,Recife
+11299,Ana Souza,SP,Campinas
+11300,Lucas Souza,CE,Caruaru
+11301,Carla Oliveira,CE,Belo Horizonte
+11302,Felipe Lima,BA,Ilhéus
+11303,Carla Souza,SP,Santos
+11304,Felipe Oliveira,MG,Belo Horizonte
+11305,Carla Oliveira,PE,Caruaru
+11306,Eduarda Lima,BA,Uberlândia
+11307,João Silva,CE,Curitiba
+11308,Gabriela Pereira,SP,Juazeiro Do Norte
+11309,Diego Silva,SP,Campinas
+11310,Ana Oliveira,PE,Caruaru
+11311,William Souza,RN,Campinas
+11312,Diego Silva,PE,Campinas
+11313,Bruno Oliveira,BA,Campinas
+11314,Bruno Pereira,CE,Fortaleza
+11315,Ana Lima,PE,Olinda
+11316,Felipe Souza,RJ,Fortaleza
+11317,Carla Souza,RJ,Londrina
+11318,Ana Costa,CE,Fortaleza
+11319,Bruno Pereira,PE,Natal
+11320,Diego Lima,PR,Curitiba
+11321,Ana Silva,RN,Parnamirim
+11322,Ana Pereira,CE,Curitiba
+11323,Marina Oliveira,CE,Recife
+11324,Eduarda Costa,MG,Uberlândia
+11325,Eduarda Costa,SP,Santos
+11326,Bruno Costa,BA,Caruaru
+11327,Eduarda Souza,PR,Curitiba
+11328,Diego Souza,SP,Campinas
+11329,Ana Silva,BA,Caruaru
+11330,Isabela Souza,PE,Caruaru
+11331,Eduarda Lima,PR,Londrina
+11332,Eduarda Souza,PE,Parnamirim
+11333,Carla Pereira,PE,Olinda
+11334,Gabriela Souza,PE,Petrópolis
+11335,Diego Pereira,MG,Contagem
+11336,Não informado,PE,Curitiba
+11337,Lucas Souza,RN,Natal
+11340,Vinícius Costa,CE,Contagem
+11341,Diego Souza,BA,Feira De Santana
+11343,Henrique Silva,BA,Ilhéus
+11344,Rafael Oliveira,BA,Ilhéus
+11345,Carla Silva,CE,Fortaleza
+11346,Felipe Silva,SP,Campinas
+11347,Nicolas Costa,MG,Belo Horizonte
+11348,Gabriela Silva,PE,Olinda
+11349,Ana Oliveira,MG,Caruaru
+11350,Felipe Lima,PR,Maringá
+11351,Vinícius Silva,SP,Campinas
+11352,Yasmin Oliveira,BA,Feira De Santana
+11353,Karen Silva,CE,Londrina
+11354,Henrique Costa,BA,Caruaru
+11355,João Lima,CE,Fortaleza
+11356,Eduarda Souza,BA,Campinas
+11357,Ana Oliveira,RJ,Petrópolis
+11358,Bruno Pereira,BA,Ilhéus
+11359,Eduarda Souza,PR,Feira De Santana
+11360,William Lima,BA,Ilhéus
+11361,Henrique Silva,BA,Feira De Santana
+11362,Bruno Souza,SP,Campinas
+11363,Eduarda Oliveira,CE,Fortaleza
+11364,Zeca Costa,PE,Recife
+11365,Felipe Souza,CE,Juazeiro Do Norte
+11366,Rafael Pereira,PE,Caruaru
+11367,Felipe Silva,CE,Sobral
+11368,Olívia Oliveira,PE,Caruaru
+11369,Nicolas Souza,SP,Campinas
+11370,Eduarda Silva,BA,Maringá
+11371,Bruno Silva,BA,Ilhéus
+11372,Olívia Silva,PE,Campinas
+11373,Bruno Lima,MG,Belo Horizonte
+11374,Carla Souza,CE,Campinas
+11375,Ana Souza,RN,São Paulo
+11376,Carla Lima,RJ,Niterói
+11377,Henrique Costa,CE,Caruaru
+11378,Marina Lima,BA,Salvador
+11379,Ana Oliveira,BA,Belo Horizonte
+11380,Ana Pereira,MG,Contagem
+11381,Diego Souza,BA,Ilhéus
+11382,Felipe Costa,CE,Caruaru
+11383,Gabriela Costa,PR,Curitiba
+11384,Carla Silva,MG,Contagem
+11385,Ana Pereira,BA,Belo Horizonte
+11386,Paulo Pereira,BA,Salvador
+11387,Ana Costa,CE,Belo Horizonte
+11388,Ana Pereira,CE,Juazeiro Do Norte
+11389,Bruno Oliveira,MG,Belo Horizonte
+11390,Henrique Lima,MG,Uberlândia
+11391,Carla Pereira,BA,Campinas
+11392,Karen Costa,BA,Ilhéus
+11393,Eduarda Oliveira,SP,São Paulo
+11394,Ana Lima,CE,Juazeiro Do Norte
+11395,João Lima,PE,Recife
+11396,Gabriela Lima,RJ,Niterói
+11397,Isabela Silva,BA,Campinas
+11398,Lucas Souza,CE,Sobral
+11399,Bruno Silva,CE,Fortaleza
+11400,Carla Oliveira,RJ,Petrópolis
+11401,Sabrina Costa,RN,Mossoró
+11402,Diego Pereira,CE,Belo Horizonte
+11403,Felipe Pereira,RJ,Niterói
+11404,Ana Silva,CE,Fortaleza
+11405,Bruno Costa,PR,Sobral
+11406,Não informado,PE,Campinas
+11407,Henrique Souza,PR,Curitiba
+11408,Marina Souza,CE,Juazeiro Do Norte
+11409,Ana Pereira,BA,Rio De Janeiro
+11410,Eduarda Costa,CE,Recife
+11411,Ana Silva,RN,Natal
+11412,Ana Silva,RN,Natal
+11413,Diego Costa,PR,Caruaru
+11414,Ana Lima,BA,Curitiba
+11415,Felipe Silva,MG,Curitiba
+11416,Karen Souza,PE,Caruaru
+11417,Felipe Oliveira,MG,Belo Horizonte
+11418,Henrique Silva,CE,Fortaleza
+11419,Eduarda Pereira,CE,Juazeiro Do Norte
+11420,Henrique Oliveira,PE,Caruaru
+11421,Felipe Silva,SP,Santos
+11422,Ana Costa,BA,Belo Horizonte
+11423,Karen Oliveira,PR,Maringá
+11424,Henrique Lima,PE,Mossoró
+11425,Karen Oliveira,BA,Feira De Santana
+11426,Isabela Silva,MG,Belo Horizonte
+11427,Henrique Oliveira,CE,Curitiba
+11428,Eduarda Souza,SP,São Paulo
+11430,Olívia Silva,MG,Contagem
+11431,Henrique Costa,BA,Contagem
+11432,Ana Souza,PR,Niterói
+11433,Bruno Lima,MG,Curitiba
+11434,Marina Pereira,MG,Belo Horizonte
+11435,Eduarda Silva,BA,Campinas
+11436,Lucas Souza,BA,Salvador
+11437,Gabriela Silva,RN,Campinas
+11438,Henrique Costa,CE,Juazeiro Do Norte
+11439,Rafael Costa,BA,Feira De Santana
+11440,Diego Oliveira,PR,Curitiba
+11441,Bruno Lima,PR,Londrina
+11442,Felipe Souza,SP,Campinas
+11443,Diego Oliveira,BA,Salvador
+11445,Diego Souza,BA,Ilhéus
+11446,Marina Pereira,BA,Campinas
+11447,Diego Silva,CE,Fortaleza
+11448,Ana Oliveira,PR,Londrina
+11449,Henrique Oliveira,PR,Caruaru
+11450,Diego Silva,BA,Caruaru
+11451,Henrique Lima,PE,Caruaru
+11452,Felipe Oliveira,PR,Londrina
+11453,Yasmin Souza,MG,Uberlândia
+11455,Ana Silva,MG,Belo Horizonte
+11456,Carla Lima,BA,Ilhéus
+11457,Carla Silva,PE,Caruaru
+11458,Karen Souza,BA,Feira De Santana
+11459,Bruno Pereira,RJ,Niterói
+11460,Isabela Lima,MG,Caruaru
+11461,Eduarda Oliveira,PE,Mossoró
+11462,Carla Oliveira,PR,Maringá
+11463,Bruno Pereira,PR,São Paulo
+11464,Olívia Pereira,PR,Campinas
+11465,Olívia Lima,PE,Londrina
+11466,Felipe Oliveira,SP,Santos
+11467,Marina Costa,RJ,Campinas
+11468,Sabrina Lima,MG,Curitiba
+11469,Bruno Silva,PE,Campinas
+11470,Vinícius Souza,BA,Juazeiro Do Norte
+11471,Carla Pereira,CE,Campinas
+11472,Diego Lima,MG,Campinas
+11473,Paulo Oliveira,BA,Fortaleza
+11474,Ana Lima,PE,Contagem
+11475,Henrique Silva,CE,Feira De Santana
+11476,Ana Costa,BA,Campinas
+11477,Carla Lima,BA,Campinas
+11478,Olívia Pereira,CE,Rio De Janeiro
+11479,Henrique Lima,CE,Curitiba
+11480,Gabriela Lima,PE,Curitiba
+11481,Bruno Costa,SP,Campinas
+11482,Karen Silva,CE,Contagem
+11483,Felipe Pereira,PE,Recife
+11484,Gabriela Oliveira,BA,Curitiba
+11485,Felipe Lima,BA,Feira De Santana
+11486,Paulo Lima,MG,Uberlândia
+11487,Ana Silva,RN,Feira De Santana
+11488,Bruno Oliveira,MG,Belo Horizonte
+11489,Isabela Souza,BA,Campinas
+11490,Não informado,MG,Contagem
+11491,Diego Silva,CE,Fortaleza
+11492,Bruno Pereira,PE,Recife
+11493,Eduarda Souza,CE,Olinda
+11494,Carla Souza,MG,Belo Horizonte
+11495,Eduarda Souza,RN,Parnamirim
+11496,Bruno Lima,PE,Ilhéus
+11497,Bruno Oliveira,PR,Maringá
+11498,Ana Souza,MG,Contagem
+11499,Eduarda Lima,BA,Curitiba
