@@ -102,6 +102,14 @@ def transformacao(base_bruta):
     print("\nShape após tratamento: ")
     print(df.shape)
 
+    print("\nCriação de colunas derivadas:\n")
+
+    df["valor_total_bruto"] = df["quantidade"] * df["valor_unitario"]
+    df["valor_desconto"] = df["valor_total_bruto"] * df["desconto_pct"]
+    df["valor_final"] = df["valor_total_bruto"] - df["valor_desconto"]
+
+    print(df[["valor_total_bruto", "valor_desconto", "valor_final"]].head(10))
+
 
     print("\nAmostra após padronização:\n")
     
