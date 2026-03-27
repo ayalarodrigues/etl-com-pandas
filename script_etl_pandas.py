@@ -12,13 +12,19 @@ def extracao():
     produtos = pd.read_csv("produtos.csv")
     base_bruta = pd.read_csv("dados_vendas_etl_pandas_6000_linhas.csv")
 
-    print("--- ARQUIVOS LIDOS ---")
+    print("\n--- ARQUIVOS LIDOS ---\n")
+
+    print("\nShape da base:\n", base_bruta.shape)
+    print("\nShape de vendas:\n", vendas.shape)
+    print("\nShape de produtos:\n", produtos.shape)
+    print("\nShape de clientes:\n", clientes.shape)
+
 
     return vendas, clientes, produtos, base_bruta
 
 def main():
 
-    vendas, cliete, produtos, base_bruta = extracao()
+    vendas, clientes, produtos, base_bruta = extracao()
     print("\nExtração realizada!\n")
     
 
