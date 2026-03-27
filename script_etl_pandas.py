@@ -79,8 +79,29 @@ def transformacao(base_bruta):
 
     print(df["desconto_pct"].head(20))
 
+    print("\nTratamento de nulos:\n")
 
-    #print(df.info())
+
+    '''fillna preenche valores nulos.
+    Foi feita a escolha pela mediana.
+    status_pedido foi preenchido como desconhecido para não ficar vazio.
+    O nome do cliente foi removido já que é uma informação de identificação'''
+
+    df["quantidade"] = df["quantidade"].fillna(df["quantidade"].median())
+    df["valor_unitario"] = df["valor_unitario"].fillna(df["valor_unitario"].median())
+    df["status_pedido"] = df["status_pedido"].fillna("desconhecido")
+    df = df.dropna(subset=["nome_cliente"]) #remove linhas em que 'nome_cliente' é nulo
+
+    #aqui só pra testar se diminuem os nulos
+
+    df["desconto_pct"] = df["desconto_pct"].fillna(0)
+
+
+    print("\nValores nulos depois do tratamento: ")
+    print(df.isna().sum())
+    print("\nShape após tratamento: ")
+    print(df.shape)
+
 
     print("\nAmostra após padronização:\n")
     
