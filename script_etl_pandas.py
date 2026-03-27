@@ -33,7 +33,7 @@ def transformacao(base_bruta):
     print("\nValores nulos por coluna:\n")
     print(df.isna().sum())
     print("\nPrimeiras 5 linhas:\n")
-    print(df.head())
+    print(df.head(20))
 
     print("\n === Etapa de Padronização de colunas de texto ===")
 
@@ -44,12 +44,41 @@ def transformacao(base_bruta):
     print("\Conversão de data_venda:\n")
     df["data_venda"] = pd.to_datetime(df["data_venda"], errors="coerce")
 
+    print(df["data_venda"].head(20))
+
     print("Conversão de valor_unitario:\n")
 
     #a coluna tem que ser vista como texto, mas não lembro como faz
     #df["valor_unitario"] = df["valor_unitario"].to_string()
     df["valor_unitario"] = df["valor_unitario"].str.replace(",", ".", regex=False)
     df["valor_unitario"] = pd.to_numeric(df["valor_unitario"], errors="coerce")
+
+    print(df["valor_unitario"].head(20))
+
+    print("Conversão de desconto_pct:\n")
+
+    df["desconto_pct"] = df["desconto_pct"]
+
+    #verifica se o texto contém "%s"
+    #na = False se houver nulo, ele não quebra. Considera como false
+    percentual = df["desconto_pct"].str.contains("%", na = False) #identifica quais linhas precisam de transformação
+    
+    
+    ''' Não dá pra converter 'x% em número de uma forma "direta" com to_numeric, etc.
+    Vai ter que converter a coluna pra número "10" vira 10, "0.15" vira 0.15 e assim por diante...'''
+    #df.loc seleciona linhas e colunas
+    #percentual seleciona só as linhas onde havia "%"
+    df.loc[percentual, "desconto_pct"] = (
+        df.loc[percentual, "desconto_pct"].str.replace("%s", "", regex = False)#remove o símbolo "%"
+    )
+    #pega a coluna e converte para número
+    df["desconto_pct"] = pd.to_numeric(df["desconto_pct"], errors="coerce")
+    
+    #pega os valores que tinham "%" e divide por 100
+    df.loc[percentual, "desconto_pct"] = df.loc[percentual, "desconto_pct"] / 100
+
+    print(df["desconto_pct"].head(20))
+
 
     #print(df.info())
 
