@@ -23,7 +23,9 @@ def extracao():
     return vendas, clientes, produtos, base_bruta
 
 def transformacao(base_bruta):
-    df = base_bruta
+    print("\n === Etapa de Transformação ===")
+    
+    df = base_bruta.copy()
 
     print("\nShape da base:\n", df.shape)
     print("\nColunas: ")
@@ -33,6 +35,17 @@ def transformacao(base_bruta):
     print("\nPrimeiras 5 linhas:\n")
     print(df.head())
 
+    print("\n === Etapa de Padronização de colunas de texto ===")
+
+    df["nome_cliente"] = df["nome_cliente"].str.strip().str.title() #nomes com inicial maiúscula
+    df["estado"] = df["estado"].str.strip().str.upper() #estados com letra maiúscula
+    df["cidade"] = df["cidade"].str.strip().str.title() #cidades padronizadas
+
+    print("\nAmostra após padronização:\n")
+    print(df[["nome_cliente", "estado", "cidade"]].head(10))
+
+    return df
+ 
 
 def main():
 
