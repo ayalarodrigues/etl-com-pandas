@@ -41,8 +41,23 @@ def transformacao(base_bruta):
     df["estado"] = df["estado"].str.strip().str.upper() #estados com letra maiúscula
     df["cidade"] = df["cidade"].str.strip().str.title() #cidades padronizadas
 
+    print("\Conversão de data_venda:\n")
+    df["data_venda"] = pd.to_datetime(df["data_venda"], errors="coerce")
+
+    print("Conversão de valor_unitario:\n")
+
+    #a coluna tem que ser vista como texto, mas não lembro como faz
+    #df["valor_unitario"] = df["valor_unitario"].to_string()
+    df["valor_unitario"] = df["valor_unitario"].str.replace(",", ".", regex=False)
+    df["valor_unitario"] = pd.to_numeric(df["valor_unitario"], errors="coerce")
+
+    #print(df.info())
+
     print("\nAmostra após padronização:\n")
-    print(df[["nome_cliente", "estado", "cidade"]].head(10))
+    
+    #print(df[["nome_cliente", "estado", "cidade"]].head(10))
+    
+    print(df[["data_venda", "valor_unitario"]].head(40))
 
     return df
  
