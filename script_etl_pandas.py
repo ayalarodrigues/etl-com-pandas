@@ -22,10 +22,24 @@ def extracao():
 
     return vendas, clientes, produtos, base_bruta
 
+def transformacao(base_bruta):
+    df = base_bruta
+
+    print("\nShape da base:\n", df.shape)
+    print("\nColunas: ")
+    print(df.columns)
+    print("\nValores nulos por coluna:\n")
+    print(df.isna().sum())
+    print("\nPrimeiras 5 linhas:\n")
+    print(df.head())
+
+
 def main():
 
     vendas, clientes, produtos, base_bruta = extracao()
     print("\nExtração realizada!\n")
+
+    df = transformacao(base_bruta)
     
 
 if __name__ == "__main__":
