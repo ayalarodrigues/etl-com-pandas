@@ -221,6 +221,43 @@ def transformacao_merge(vendas, clientes, produtos):
     print(soma_estado_categoria)
 
     return base_enriquecida, soma_estado_categoria
+
+
+def exportacao(df_tratado, resumo_categoria, base_enriquecida, soma_estado_categoria):
+
+    print("\n ---- FASE DE EXPORTAÇÃO DE DADOS --- \n")
+
+    df_tratado.to_csv("base_tratada.csv", index=False, encoding="utf-8") #salva um CSV sem incluir a coluna índice
+    print("\nArquivo base_tratada.csv foi exportado!\n")
+
+    #exportar resumo por categoria
+
+    resumo_categoria.to_csv("resumo_categoria.csv", index = False, encoding='utf-8')
+    print("\nArquivo resumo_categoria.csv foi exportado!\n")
+
+    resumo_categoria.to_json(
+        "resumo_categoria.json",
+        orient = "records",
+        indent = 4,
+        force_ascii=False, #sem ele, os acentos ficaram estranhos
+
+    )
+
+    print("\nArquivo resumo_categoria.json foi exportado!\n")
+
+    #exporta base enriquecida
+    base_enriquecida.to_csv("base_enriquecida.csv", index = False, encoding = 'utf-8')
+    print("\nArquivo base_enriquecida.csv foi exportado!\n")
+
+    #exporta a pivot table
+    soma_estado_categoria.to_csv("resumo_estado_categoria.csv", encoding = "utf-8")
+    print("\nArquivo resumo_estado_categoria foi exportado!\n")
+
+    soma_estado_categoria.to_json("resumo_estado_categoria.json", orient = "records",force_ascii=False, indent=4,)
+
+    print("\nArquivo resumo_estado_categoria.json foi exportado!\n")
+
+
  
 
 def main():
@@ -228,7 +265,15 @@ def main():
     vendas, clientes, produtos, base_bruta = extracao()
     df_tratado, resumo_categoria= transformacao(base_bruta)
     base_enriquecida, soma_estado_categoria = transformacao_merge(vendas, clientes, produtos)
-    print("\nExtração realizada!\n")
+
+    exportacao(
+        df_tratado,
+        resumo_categoria,
+        base_enriquecida,
+        soma_estado_categoria
+    )
+
+    #print("\nExtração realizada!\n")
 
     #df = transformacao(base_bruta)
     
