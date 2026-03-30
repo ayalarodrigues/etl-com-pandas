@@ -180,6 +180,28 @@ def transformacao_merge(vendas, clientes, produtos):
     print(base_enriquecida.shape)
     print(base_enriquecida.head())
 
+    print("\nColunas após o merge:\n")
+    #pra mostrar o nome das colunas após o merge
+    #útil pra saber se os nomes são como esperado
+    print(base_enriquecida.columns)
+
+    #cria uma lista de colunas que serão mantidas
+    colunas_merge = [
+        "id_venda",
+        "data_venda",
+        "estado",
+        "produto",
+        "categoria",
+        "quantidade",
+        "valor_final"
+    ]
+
+    #seleciona apenas essas colunas passadas no argumento
+    base_enriquecida = base_enriquecida[colunas_merge]
+
+    print("\nBase enriquecida:\n")
+    print(base_enriquecida.head(10)) 
+
     return base_enriquecida
  
 
