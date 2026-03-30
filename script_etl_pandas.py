@@ -152,15 +152,46 @@ def transformacao(base_bruta):
     
     return df, resumo_categoria
 
+def transformacao_merge(vendas, clientes, produtos):
+    print("\n --- Fase de integração com merge --- \n")
+
+    #fazendo cópias para não alterar os dfs originais e fazer besteira
+    vendas_df = vendas.copy()
+    clientes_df = clientes.copy()
+    produtos_df = produtos.copy()
+
+    print("\nShape das bases:\n")
+    print("vendas:", vendas_df.shape)
+    print("clientes:", clientes_df.shape)
+    print("produtos:", produtos_df.shape)
+
+    #primeiro merge: vendas com clientes
+    base_enriquecida = vendas_df.merge(clientes_df, on = "id_cliente", how = "left")
+    #juntou dois df's pela chave 'id_cliente' e mantém todas as linhas do df da esquerda, que aqui é o vendas_df
+
+    print("\nShape após merge entre vendas e cleintes:\n")
+    print(base_enriquecida.shape)
+    print(base_enriquecida.head())
+
+    #segundo merge: resultado com produtos
+    base_enriquecida = base_enriquecida.merge(produtos_df, on="id_produto", how = "left")
+
+    print("\nShape após merge entre resultados e produtos:\n")
+    print(base_enriquecida.shape)
+    print(base_enriquecida.head())
+
+    return base_enriquecida
  
 
 def main():
 
     vendas, clientes, produtos, base_bruta = extracao()
     df_tratado, resumo_categoria= transformacao(base_bruta)
+    base_enriquecida = transformacao_merge(vendas, clientes, produtos)
     print("\nExtração realizada!\n")
 
-    df = transformacao(base_bruta)
+    #df = transformacao(base_bruta)
+    
     
 
 if __name__ == "__main__":
