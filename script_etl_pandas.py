@@ -5,7 +5,7 @@ import pandas as pd
 
 # -----------EXERCÍCIO 1-----------#
 
-def extracao():
+def carregar_dados():
 
     vendas = pd.read_csv("vendas.csv")
     clientes = pd.read_csv("clientes.csv")
@@ -223,7 +223,7 @@ def transformacao_merge(vendas, clientes, produtos):
     return base_enriquecida, soma_estado_categoria
 
 
-def exportacao(df_tratado, resumo_categoria, base_enriquecida, soma_estado_categoria):
+def salvar_dados(df_tratado, resumo_categoria, base_enriquecida, soma_estado_categoria):
 
     print("\n ---- FASE DE EXPORTAÇÃO DE DADOS --- \n")
 
@@ -258,20 +258,32 @@ def exportacao(df_tratado, resumo_categoria, base_enriquecida, soma_estado_categ
     print("\nArquivo resumo_estado_categoria.json foi exportado!\n")
 
 
- 
+def transformar_dados(vendas, clientes, produtos, base_bruta):
+    df_tratado, resumo_categoria = transformacao(base_bruta)
+    base_enriquecida, soma_estado_categoria = transformacao_merge(
+        vendas, clientes, produtos
+    )
 
+    return df_tratado, resumo_categoria, base_enriquecida, soma_estado_categoria
 def main():
 
-    vendas, clientes, produtos, base_bruta = extracao()
-    df_tratado, resumo_categoria= transformacao(base_bruta)
-    base_enriquecida, soma_estado_categoria = transformacao_merge(vendas, clientes, produtos)
+    print("\n ----- INÍCIO DO PIPELINE ETL COM PANDAS -----\n")
 
-    exportacao(
+    vendas, clientes, produtos, base_bruta = carregar_dados()
+    
+    df_tratado, resumo_categoria, base_enriquecida, soma_estado_categoria = transformar_dados(
+        vendas, clientes, produtos, base_bruta
+    )
+
+    salvar_dados(
         df_tratado,
         resumo_categoria,
         base_enriquecida,
         soma_estado_categoria
     )
+
+    print("\n ----- FIM DO PIPELINE! -----\n")
+
 
     #print("\nExtração realizada!\n")
 
