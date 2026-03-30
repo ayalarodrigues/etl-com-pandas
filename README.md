@@ -1,4 +1,4 @@
-````md
+
 # ETL com Pandas
 
 Projeto desenvolvido em **Python** com **Pandas** para prática de **ETL (Extração, Transformação e Exportação de Dados)** a partir de múltiplas bases em CSV.
