@@ -104,11 +104,13 @@ def transformacao(base_bruta):
 
     print("\nCriação de colunas derivadas:\n")
 
-    df["valor_total_bruto"] = df["quantidade"] * df["valor_unitario"]
-    df["valor_desconto"] = df["valor_total_bruto"] * df["desconto_pct"]
-    df["valor_final"] = df["valor_total_bruto"] - df["valor_desconto"]
+    df["valor_total_bruto"] = df["quantidade"] * df["valor_unitario"] #multiplica quantidade pelo valor unitário
+    df["valor_desconto"] = df["valor_total_bruto"] * df["desconto_pct"] #calcula o desconto
+    df["valor_final"] = df["valor_total_bruto"] - df["valor_desconto"] #subtrai o desconto do valor bruto
 
     print(df[["valor_total_bruto", "valor_desconto", "valor_final"]].head(10))
+
+    
 
 
     print("\nAmostra após padronização:\n")
@@ -117,7 +119,22 @@ def transformacao(base_bruta):
     
     print(df[["data_venda", "valor_unitario"]].head(40))
 
-    return df
+    #return df
+
+    print("Criação da faixa_valor com apply:\n")
+
+    def categoria_valor(v):
+        if v < 500:
+            return "baixo"
+        elif v < 2000:
+            return "médio"
+        else:
+            return "alto"
+    df["faixa_valor"] = df["valor_final"].apply(categoria_valor)
+
+    print(df["faixa_valor"])
+
+
  
 
 def main():
