@@ -123,6 +123,9 @@ def transformacao(base_bruta):
 
     print("Criação da faixa_valor com apply:\n")
 
+    #apply aplica uma função a cada valor d euma coluna
+    #para cada valor de uma coluna x, a função decide qual o valor terá
+
     def categoria_valor(v):
         if v < 500:
             return "baixo"
@@ -135,11 +138,26 @@ def transformacao(base_bruta):
     print(df["faixa_valor"])
 
 
+    print("Gera resumo por categoria:\n")
+    #groupby agrupa as linhas por categoria
+    #agg faz várias agregações ao mesmo tempo
+
+    resumo_categoria = (df.groupby("categoria").agg(
+        faturamento_total = ("valor_final", "sum"), #na coluna valor_final, soma tudo
+        quantidade_total_vendida = ("quantidade", "sum"), #na coluna quantidade, soma tudo
+        ticket_medio_pedido = ("valor_final", "mean") #na coluna valor final, faz a média
+    ).reset_index()) #transforma o índice em uma coluna de novo(sem ele, não aparece o índice)
+
+    print(resumo_categoria)
+    
+    return df, resumo_categoria
+
  
 
 def main():
 
     vendas, clientes, produtos, base_bruta = extracao()
+    df_tratado, resumo_categoria= transformacao(base_bruta)
     print("\nExtração realizada!\n")
 
     df = transformacao(base_bruta)
