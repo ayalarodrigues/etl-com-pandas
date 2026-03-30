@@ -7,10 +7,10 @@ import pandas as pd
 
 def carregar_dados():
 
-    vendas = pd.read_csv("vendas.csv")
-    clientes = pd.read_csv("clientes.csv")
-    produtos = pd.read_csv("produtos.csv")
-    base_bruta = pd.read_csv("dados_vendas_etl_pandas_6000_linhas.csv")
+    vendas = pd.read_csv("data/vendas.csv")
+    clientes = pd.read_csv("data/clientes.csv")
+    produtos = pd.read_csv("data/produtos.csv")
+    base_bruta = pd.read_csv("data/dados_vendas_etl_pandas_6000_linhas.csv")
 
     print("\n--- ARQUIVOS LIDOS ---\n")
 
@@ -227,16 +227,16 @@ def salvar_dados(df_tratado, resumo_categoria, base_enriquecida, soma_estado_cat
 
     print("\n ---- FASE DE EXPORTAÇÃO DE DADOS --- \n")
 
-    df_tratado.to_csv("base_tratada.csv", index=False, encoding="utf-8") #salva um CSV sem incluir a coluna índice
+    df_tratado.to_csv("output/base_tratada.csv", index=False, encoding="utf-8") #salva um CSV sem incluir a coluna índice
     print("\nArquivo base_tratada.csv foi exportado!\n")
 
     #exportar resumo por categoria
 
-    resumo_categoria.to_csv("resumo_categoria.csv", index = False, encoding='utf-8')
+    resumo_categoria.to_csv("output/resumo_categoria.csv", index = False, encoding='utf-8')
     print("\nArquivo resumo_categoria.csv foi exportado!\n")
 
     resumo_categoria.to_json(
-        "resumo_categoria.json",
+        "output/resumo_categoria.json",
         orient = "records",
         indent = 4,
         force_ascii=False, #sem ele, os acentos ficaram estranhos
@@ -246,14 +246,14 @@ def salvar_dados(df_tratado, resumo_categoria, base_enriquecida, soma_estado_cat
     print("\nArquivo resumo_categoria.json foi exportado!\n")
 
     #exporta base enriquecida
-    base_enriquecida.to_csv("base_enriquecida.csv", index = False, encoding = 'utf-8')
+    base_enriquecida.to_csv("output/base_enriquecida.csv", index = False, encoding = 'utf-8')
     print("\nArquivo base_enriquecida.csv foi exportado!\n")
 
     #exporta a pivot table
-    soma_estado_categoria.to_csv("resumo_estado_categoria.csv", encoding = "utf-8")
+    soma_estado_categoria.to_csv("output/resumo_estado_categoria.csv", encoding = "utf-8")
     print("\nArquivo resumo_estado_categoria foi exportado!\n")
 
-    soma_estado_categoria.to_json("resumo_estado_categoria.json", orient = "records",force_ascii=False, indent=4,)
+    soma_estado_categoria.to_json("output/resumo_estado_categoria.json", orient = "records",force_ascii=False, indent=4,)
 
     print("\nArquivo resumo_estado_categoria.json foi exportado!\n")
 
