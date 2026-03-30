@@ -202,14 +202,32 @@ def transformacao_merge(vendas, clientes, produtos):
     print("\nBase enriquecida:\n")
     print(base_enriquecida.head(10)) 
 
-    return base_enriquecida
+    # ------------- PIVOT TABLE -------------
+
+    #cria uma tabela dinâmica
+    soma_estado_categoria = pd.pivot_table(
+        base_enriquecida,
+        values= "valor_final",
+        index = "estado",
+        columns="categoria",
+        aggfunc= "sum", #a agregação vai ser uma soma
+        fill_value=0 #se não tiver um dado em alguma combinação, coloca zero
+    )
+    ''' values é a coluna que vai ser "resumida"
+    index="estado" as linhas da tabela serão os estados
+    columns="categoria" as colunas da tabelas serão as categorias'''
+
+    print("\nPivot table com soma de valor_final por estado e categoria:\n ")
+    print(soma_estado_categoria)
+
+    return base_enriquecida, soma_estado_categoria
  
 
 def main():
 
     vendas, clientes, produtos, base_bruta = extracao()
     df_tratado, resumo_categoria= transformacao(base_bruta)
-    base_enriquecida = transformacao_merge(vendas, clientes, produtos)
+    base_enriquecida, soma_estado_categoria = transformacao_merge(vendas, clientes, produtos)
     print("\nExtração realizada!\n")
 
     #df = transformacao(base_bruta)
